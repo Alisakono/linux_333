@@ -1,0 +1,23 @@
+   0 date >> file3.txt
+   1 df -h
+   2 df -h | grep 2 >> file3.txt
+   3 cat file3.txt
+   4 history
+   5 history | tail -5 >> file3.txt
+   6 cat file3.txt
+   7 cat /proc/cpuinfo
+   8 cat /proc/cpuinfo | grep "AuthenticX86" >> file3.txt
+   9 cat file3.txt
+  10 nano file3.txt
+  11 history > history3.txt
+  12 mv output
+  13 cat file3.txt
+  14 ls -al
+  15 chmod +x file3.txt
+  16 cat file3.txt
+  17 ls -l
+  18 history > history3.txt
+  19 mv output
+  20 mv -f output
+  21 mv -fin output
+  22 history > history3.txt
