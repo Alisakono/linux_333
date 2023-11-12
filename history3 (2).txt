@@ -1,0 +1,15 @@
+   0 date >> file3.txt
+   1 cat file3.txt
+   2 df -h
+   3 df -h | grep 2 >> file3.txt
+   4 cat file3.txt
+   5 history
+   6 history | tail -5 >> file3.txt
+   7 cat file3.txt
+   8 cat /proc/cpuinfo
+   9 cat /proc/cpuinfo | grep "vendor" >> file3.txt
+  10 cat file3.txt
+  11 nano file3.txt
+  12 chmod +x file3.txt
+  13 ls -al
+  14 history > history3.txt
